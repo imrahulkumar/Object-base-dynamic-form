@@ -4,7 +4,7 @@
   basis of the object.
 
  ![](https://github.com/Rahul151995/Object-base-dynamic-form/blob/master/diagram.svg = 100x100)
-<img src="https://github.com/Rahul151995/Object-base-dynamic-form/blob/master/diagram.svg"  height="500px" />
+<img src="https://github.com/Rahul151995/Object-base-dynamic-form/blob/master/diagram.svg"  height="400px" />
 
 
 - [Demo click here](http://dynamic-forms.surge.sh/)
